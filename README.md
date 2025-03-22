@@ -1,1 +1,1 @@
-# Fitness-Tracker-App
+# Fitness Tracker App using Python and Machine Learning
